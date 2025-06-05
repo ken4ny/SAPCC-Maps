@@ -1,0 +1,1 @@
+var json_WestgateStationPlanningCenterpoint_23 = {"type":"FeatureCollection","name":"WestgateStationPlanningCenterpoint_23","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{},"geometry":{"type":"Point","coordinates":[-93.205086975093295,44.966943126721915]}}]}
